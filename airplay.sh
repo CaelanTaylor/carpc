@@ -1,0 +1,1 @@
+sudo rpiplay -n CarPC
